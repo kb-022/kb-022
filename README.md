@@ -33,7 +33,7 @@ a Computer Science student with an interest in secure, scalable systems across t
 
 ## 🛠️ Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,docker, postgres" />
+  <img src="https://skillicons.dev/icons?i=git,docker,postgres" />
 </p>
 
 
