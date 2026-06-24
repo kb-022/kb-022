@@ -15,7 +15,7 @@ a Computer Science student with an interest in secure, scalable systems across t
 ## 🛠️ Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=rust,python,postgres,ts,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=rust,python,ts,js,html,css" />
 </p>
 
 <p align="center">
@@ -27,13 +27,13 @@ a Computer Science student with an interest in secure, scalable systems across t
 
 ## 🛠️ Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=svelte,tailwind,react,expressjs" />
+  <img src="https://skillicons.dev/icons?i=tailwind,react" />
 </p>
 
 
 ## 🛠️ Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,docker" />
+  <img src="https://skillicons.dev/icons?i=git,docker, postgres" />
 </p>
 
 
