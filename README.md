@@ -18,12 +18,6 @@ a Computer Science student with an interest in secure, scalable systems across t
   <img src="https://skillicons.dev/icons?i=rust,python,ts,js,html,css" />
 </p>
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kb-022&layout=compact"/>
-
-</p>
-
 
 ## 🛠️ Frameworks
 <p align="center">
